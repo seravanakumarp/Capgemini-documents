@@ -1,0 +1,19 @@
+Objective: Build a maven project for Testing a simple web application using BDD cucumber 
+framework with Selenium.
+Usecase: Google- homepage
+Requirements: Testing Homepage of Google website
+Positive Scenario:
+1. Open Edge browser
+2. Load google website url: https://www.google.com/
+3. List all anchor tags
+4. Validate the url: https://www.google.com/
+Negative Scenario: 
+1. Open Edge browser
+2. Load google website url: https://www.google.com/
+3. List all anchor tags
+4. Validate the url: https://www.googles.com/
+Tasks :
+• Create Feature Files 
+• Step Definition Files
+• Runner file
+https://builtin.com/data-science/advanced-sql
